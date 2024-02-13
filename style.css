@@ -1,0 +1,25 @@
+button {
+    background-color: #35bd08;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+body {
+    background-image: linear-gradient(to bottom, rgb(164, 215, 225), rgb(36, 88, 140));
+    font-family: Verdana;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+    color: rgb(6, 73, 30) !important;
+}
+
